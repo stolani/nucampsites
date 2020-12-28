@@ -49,3 +49,8 @@ header h2 {
 .update {
     background-color: #007fff;
 }
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
